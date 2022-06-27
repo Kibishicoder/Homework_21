@@ -1,0 +1,8 @@
+git inittest.py
+tests.py
+archive/
+venv/
+.idea/
+.*_cache/
+__pycache__
+.coverage
